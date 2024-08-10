@@ -5,15 +5,15 @@ The files have been modified to work with the 1.69inch LCD Module by Waveshare.
 
 This is just a fork of the projects hosted by Pimoroni.
 
-[mopidy-pidi - Mopidy plugin host or pidi display](https://github.com/pimoroni/mopidy-pidi)
-[pidi-plugins - Lower level libraries used to draw to the screen](https://github.com/pimoroni/pidi-plugins)
-[st7789-python - Library to control the ST7789](https://github.com/pimoroni/st7789-python)
+- [mopidy-pidi - Mopidy plugin host or pidi display](https://github.com/pimoroni/mopidy-pidi)
+- [pidi-plugins - Lower level libraries used to draw to the screen](https://github.com/pimoroni/pidi-plugins)
+- [st7789-python - Library to control the ST7789](https://github.com/pimoroni/st7789-python)
 
 I also used sonocottas' fork of the above libraries aimed at making these more compatible with Orange Pi.
 
-[pidi-plugins-python](https://github.com/sonocotta/pidi-plugins-python)
-[mopidy-orangepi-pidi](https://github.com/sonocotta/mopidy-orangepi-pidi)
-[st7789-orangepi-python](https://github.com/sonocotta/st7789-orangepi-python)
+- [pidi-plugins-python](https://github.com/sonocotta/pidi-plugins-python)
+- [mopidy-orangepi-pidi](https://github.com/sonocotta/mopidy-orangepi-pidi)
+- [st7789-orangepi-python](https://github.com/sonocotta/st7789-orangepi-python)
 
 Please support and look through the original source code that this is derived from and support the developers.
 I truthfully would have spent a lot longer if I needed to write this stack from scratch.
